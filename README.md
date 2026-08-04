@@ -58,7 +58,7 @@ I’m Divyanshi, a 3rd-year Information Technology student at Ramrao Adik Instit
 </p> 
 <p align="center">
   <a href="https://github.com/divyanshiii01">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yugal006&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=divyanshiii01&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 <!-- <p align="center">
