@@ -72,19 +72,19 @@ I’m Divyanshi, a 3rd-year Information Technology student at Ramrao Adik Instit
 
 ## 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/Yugal006">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yugal006&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Yugal006's GitHub Stats" />
+  <a href="https://github.com/divyanshiii01">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=divyanshiii01&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="divyanshiii01's GitHub Stats" />
   </a>
 </p> 
-<p align="center">
+<!-- <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Yugal006&theme=dark&radius=10" alt="Yugal006's Activity Graph" />
-</p>
+</p> -->
 
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/divyanshi-7689b9338/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:dc5626181@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
