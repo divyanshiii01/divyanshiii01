@@ -2,7 +2,12 @@
 
 ## About
 
-I’m Divyanshi, a 3rd-year Information Technology student at Ramrao Adik Institute of Technology. Aspiring IT Engineer (Undergraduate) | National Swimmer | Public Speaker |Exploring Emerging Technologies
+I'm Divyanshi, a third-year Information Technology student at Ramrao Adik Institute of Technology.
+
+Aspiring IT Engineer | Public Speaker | Exploring Emerging Technologies
+
+*Observing the world. Questioning the ordinary. Engineering a better tomorrow — starting with myself.*
+
 
 <!-- <a href="https://github.com/Yugal006/Yugal006">
   <picture>
@@ -11,74 +16,86 @@ I’m Divyanshi, a 3rd-year Information Technology student at Ramrao Adik Instit
   </picture>
 </a> -->
 
-## 🛠️ Languages & Tools
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="36" />
+## ⚙️ Languages & Technologies
 
-</p>
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-</p>
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="80" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-ar21~bgwhite.svg" width="80" />
+**Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="SUPA" width="40" />
+**Frameworks & Development**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN_Stack-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 </p>
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" />&nbsp;&nbsp;
-  <!-- <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="Vim" width="40" />&nbsp;&nbsp; -->
-  <img src="https://img.shields.io/badge/render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-
+**Database & Data Analytics**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 </p>
-<h3 align="center">Design</h3>
-<p align="center">
-  <!-- <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" /> -->
-</p> 
+
+**Developer Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+</p>
+
+**Deployment & Design**
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+</p>
+
+## ✧ Currently Exploring
+
+<p><em>Expanding my knowledge, experimenting with ideas, and exploring what's possible.</em></p>
+
+<table>
+  <tr>
+    <td width="50%">🧠 <strong>Artificial Intelligence & Machine Learning</strong></td>
+    <td width="50%">⚛️ <strong>Advanced MERN Stack Development</strong></td>
+  </tr>
+  <tr>
+    <td>🔗 <strong>REST API Design & Backend Architecture</strong></td>
+    <td>📊 <strong>Data Analytics & Visualisation</strong></td>
+  </tr>
+  <tr>
+    <td>🏗️ <strong>Scalable Application Development</strong></td>
+    <td>🧩 <strong>Data Structures & Algorithms (C++)</strong></td>
+  </tr>
+</table>
+
+## GitHub Statistics
+
 <p align="center">
   <a href="https://github.com/divyanshiii01">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=divyanshiii01&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=divyanshiii01&show_icons=true&include_all_commits=true&hide_rank=true&show=all_time_contribs&hide=contribs&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&theme=github_dark&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B9CF6&border_color=30363D&number_format=long&disable_animations=true"
+      alt="Divyanshi's GitHub Statistics"
+    />
   </a>
 </p>
-<!-- <p align="center">
-  <a href="https://leetcode.com/u/yugal006/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-282828?style=for-the-badge&logo=leetcode&logoColor=ffa116"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/yugal006?ext=heatmap"/>
-</p> -->
 
-## 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/divyanshiii01">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=divyanshiii01&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="divyanshiii01's GitHub Stats" />
-  </a>
-</p> 
-<!-- <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Yugal006&theme=dark&radius=10" alt="Yugal006's Activity Graph" />
-</p> -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=divyanshiii01&style=flat-square&color=8B7CF6&label=PROFILE+VIEWS" />
+</p>
 
 ## 🔗 Connect with Me
 <p align="center">
