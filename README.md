@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Divyanshi&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Enthusiast%20%E2%80%A2%20Full%20Stack%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Divyanshi&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Enthusiast%20%E2%80%A2%20Developer%20%E2%80%A2%20Data%20Analytics%20Enthusiast&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 ## About
 
@@ -16,7 +16,7 @@ Aspiring IT Engineer | Public Speaker | Exploring Emerging Technologies
   </picture>
 </a> -->
 
-## ⚙️ Languages & Technologies
+## Languages & Technologies
 
 **Programming Languages**
 <p>
@@ -39,9 +39,11 @@ Aspiring IT Engineer | Public Speaker | Exploring Emerging Technologies
 
 **Database & Data Analytics**
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 **Developer Tools**
@@ -63,7 +65,7 @@ Aspiring IT Engineer | Public Speaker | Exploring Emerging Technologies
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
 </p>
 
-## ✧ Currently Exploring
+## Currently Exploring
 
 <p><em>Expanding my knowledge, experimenting with ideas, and exploring what's possible.</em></p>
 
